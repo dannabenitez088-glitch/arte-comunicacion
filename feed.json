@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://dannabenitez088-glitch.github.io/arte-comunicacion/composicion-sonora.html",
+            "url": "https://dannabenitez088-glitch.github.io/arte-comunicacion/composicion-sonora.html",
+            "title": "Composición sonora",
+            "summary": "En este proyecto se realizó una composición sonora en Reaper con una duración aproximada de dos minutos, enfocada en la&hellip;",
+            "content_html": "<p data-start=\"108\" data-end=\"475\">En este proyecto se realizó una composición sonora en <span class=\"hover:entity-accent entity-underline inline cursor-pointer align-baseline\"><span class=\"whitespace-normal\">Reaper</span></span> con una duración aproximada de dos minutos, enfocada en la construcción de una experiencia sensorial a partir de sonidos cotidianos. La pieza se desarrolla mediante elementos como pasos, objetos domésticos y un reloj, que se transforman progresivamente a lo largo del tiempo.</p>\n<p data-start=\"477\" data-end=\"797\">Se incorporaron grabaciones de voz propias, editadas a través de cortes, repeticiones y efectos como reverberación y delay, con el propósito de sugerir pensamientos internos más que un discurso directo. Estas capas sonoras se superponen y se modifican, generando distintas sensaciones a medida que avanza la composición.</p>\n<p data-start=\"799\" data-end=\"1109\">Más que narrar de forma explícita, la intención fue representar el colapso emocional de una persona frente a la acumulación de múltiples cargas, mostrando cómo pequeñas acciones y estímulos cotidianos pueden intensificarse hasta convertirse en una experiencia abrumadora que desemboca en una ruptura emocional.<br><br>A continuación la pieza sonora:</p>\n<p><audio loading=\"lazy\" controls=\"controls\" src=\"https://dannabenitez088-glitch.github.io/arte-comunicacion/media/posts/3/ARTE-Y-COMUNICACION-2.mp3\"></audio></p>",
+            "author": {
+                "name": "Danna Benitez"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-30T00:45:13-05:00",
+            "date_modified": "2026-03-30T01:03:43-05:00"
+        },
+        {
             "id": "https://dannabenitez088-glitch.github.io/arte-comunicacion/mi-composicion-visual.html",
             "url": "https://dannabenitez088-glitch.github.io/arte-comunicacion/mi-composicion-visual.html",
             "title": "Composición visual",
